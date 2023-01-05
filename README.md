@@ -1,5 +1,5 @@
 # nlearn-scraper-setup
-Manage your every file from nlearn automatically
+- Manage your every file from nlearn automatically
 
 ### Method 1
 
