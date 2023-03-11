@@ -1,0 +1,29 @@
+[
+    {
+        "course_name": "CS103.3 Professional Development",
+        "section_name": "Lecture 1",
+        "file_name": "lecture note File.pptx",
+        "file_path": "./files/CS103.3 Professional Development/Lecture 1/lecture note File.pptx",
+        "ext": "pptx",
+        "url": "https://nlearn.nsbm.ac.lk/mod/resource/view.php?id=37812",
+        "ts": 1678524784
+    },
+    {
+        "course_name": "CS103.3 Professional Development",
+        "section_name": "Guest lecture",
+        "file_name": "Lecture note File.pptx",
+        "file_path": "./files/CS103.3 Professional Development/Guest lecture/Lecture note File.pptx",
+        "ext": "pptx",
+        "url": "https://nlearn.nsbm.ac.lk/mod/resource/view.php?id=37811",
+        "ts": 1678524789
+    },
+    {
+        "course_name": "CS103.3 Professional Development",
+        "section_name": "Emotional Intelligence",
+        "file_name": "Lecture note File.pptx",
+        "file_path": "./files/CS103.3 Professional Development/Emotional Intelligence/Lecture note File.pptx",
+        "ext": "pptx",
+        "url": "https://nlearn.nsbm.ac.lk/mod/resource/view.php?id=38784",
+        "ts": 1678524790
+    }
+]
